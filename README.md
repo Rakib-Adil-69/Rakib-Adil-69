@@ -4,13 +4,13 @@
 </p>
 
 <!-- Heading -->
-<h1 align="center">Hi, I'm @MBBXMESBAH</h1>
+<h1 align="center">Hi, I'm Rakib Adil</h1>
 <p align="center">Aspiring Programmer | Learner | Open-Source Enthusiast</p>
 
 <!-- Social Links -->
 <p align="center">
   <a href="https://github.com/Rakib-Adil-69">
-    <img src="https://img.shields.io/github/followers/MBBXMESBAH?label=GitHub%20Followers&style=for-the-badge" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/Rakib-Adil-69?label=GitHub%20Followers&style=for-the-badge" alt="GitHub Followers">
   </a>
   <a href="https://www.facebook.com/RAKIB.404X">
     <img src="https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook" alt="Facebook Profile">
