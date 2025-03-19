@@ -1,6 +1,6 @@
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://graph.facebook.com/100082247235177/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662" alt="Profile Picture" width="200" height="200" style="border-radius: 50%;">
+  <img src="https://graph.facebook.com/100075808585925/picture?type=large&width=500&height=500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662" alt="Profile Picture" width="200" height="200" style="border-radius: 50%;">
 </p>
 
 <!-- Heading -->
@@ -18,10 +18,6 @@
 </p>
 
 <!-- GitHub Stats -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Public%20Repositories-23-blue?style=for-the-badge" alt="Public Repositories">
-  <img src="https://img.shields.io/badge/NPM%20Packages-2-blue?style=for-the-badge" alt="NPM Packages">
-</p>
 
 ---
 
