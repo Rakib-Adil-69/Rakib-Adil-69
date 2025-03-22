@@ -5,7 +5,7 @@
 
 <!-- Heading -->
 <h1 align="center">Hi, I'm Rakib Adil</h1>
-<p align="center">Aspiring Programmer | Learner | Open-Source Enthusiast</p>
+<p align="center">A simple Programmer | Learner | Open-Source Enthusiast</p>
 
 <!-- Social Links -->
 <p align="center">
